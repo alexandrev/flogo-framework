@@ -15,7 +15,7 @@
           "enabled": true
       }
   },
-  "ref": "github.com/alexandrev/contrib/activity/genctx",
+  "ref": "github.com/alexandrev/flogo-framework/activity/genctx",
   "inputs": [
     {
       "name": "flow",

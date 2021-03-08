@@ -9,7 +9,7 @@
     "category": "Framework",
     "visible": true
   },
-  "ref": "github.com/alexandrev/contrib/activity/flowctx",
+  "ref": "github.com/alexandrev/flogo-framework/activity/flowctx",
   
   "outputs":[
     {
