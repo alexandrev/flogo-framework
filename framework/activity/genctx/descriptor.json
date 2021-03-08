@@ -6,7 +6,7 @@
   "title": "GenerateContext",
     "display": {
       "description": "Generate Context to be used as part of the flow",
-      "category": "Framework",
+      "category": "framework",
       "visible": true
   },
   "feature": {

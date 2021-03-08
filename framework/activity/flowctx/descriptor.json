@@ -6,7 +6,7 @@
   "title": "GetFlowContext",
   "display": {
     "description": "Get flow of the context",
-    "category": "Framework",
+    "category": "framework",
     "visible": true
   },
   "ref": "github.com/alexandrev/flogo-framework/framework/activity/flowctx",
